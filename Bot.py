@@ -91,7 +91,7 @@ async def ping(ctx):
     await ctx.send(f'Pong! {round(client.latency * 1000)}ms')
 
 #8ball
-@client.command(aliases=['8ball'])
+@client.command(aliases=['8ball','8Ball'])
 async def _8ball(ctx, *, question):
     responses = open('responses-8ball.txt').read().splitlines()
     random.seed(a=None)
