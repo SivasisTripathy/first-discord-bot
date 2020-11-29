@@ -15,14 +15,14 @@ python Bot.py
 
 There a few commands which are prewritten and more will be added in due time.
 
-`!ping` = Shows the latency
-`!8ball` = For some random Yes or No answers
-`!quote` = Gives a random Quote
-`!help` = Gives the list of Commands
-`!clear <number>` = Clears a number of messages(for admin only)
-`!kick <username>` = Kicks a particular user(for admin only)
-`!ban <username>` = Bans a particular user(for admin only)
-`!unban <username>` = Unbans a particular user(for admin only)
+* `!ping` = Shows the latency
+* `!8ball` = For some random Yes or No answers
+* `!quote` = Gives a random Quote
+* `!help` = Gives the list of Commands
+* `!clear <number>` = Clears a number of messages(for admin only)
+* `!kick <username>` = Kicks a particular user(for admin only)
+* `!ban <username>` = Bans a particular user(for admin only)
+* `!unban <username>` = Unbans a particular user(for admin only)
 
 ## To do
 -> Music integration
