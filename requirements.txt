@@ -1,0 +1,4 @@
+Python = Version 3.5.3+
+Pip = Version 20.2+
+discord.py = https://github.com/Rapptz/discord.py
+PyNaCl(for Voice Support)
