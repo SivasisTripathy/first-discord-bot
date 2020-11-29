@@ -25,7 +25,7 @@ There a few commands which are prewritten and more will be added in due time.
 * `!unban <username>` = Unbans a particular user(for admin only)
 
 ## To do
--> Music integration
--> Split up using Cogs
--> Client/web client to allow reminders
--> DM support
+* -> Music integration
+* -> Split up using Cogs
+* -> Client/web client to allow reminders
+* -> DM support
